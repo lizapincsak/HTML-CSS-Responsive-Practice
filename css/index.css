@@ -265,6 +265,7 @@ footer h3{
     }
     .left, .right{
         width: 80%;
+        margin: 2% 0;
     }
     .copyright{
         text-align: center;
